@@ -11,5 +11,4 @@ public class DunAndDragApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DunAndDragApplication.class, args);
 	}
-
 }
